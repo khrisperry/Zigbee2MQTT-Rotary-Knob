@@ -27,6 +27,7 @@ blueprint:
         device:
           filter:
             integration: mqtt
+            model: TS004F
 
     mode_tracker:
       name: Mode tracker
